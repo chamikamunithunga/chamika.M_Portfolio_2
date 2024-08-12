@@ -14,8 +14,11 @@ I am H.D.C.S Munithunga, a passionate software engineer with a background in com
 ## Skills
 
 - **Languages**: JavaScript, Python, Java, C++
+  
 - **Frameworks/Libraries**: React, Redux, Node.js, Express, Scikit-learn
+  
 - **Tools/Platforms**: Git, Docker, Azure, AWS
+  
 - **Other**: Agile methodologies, Test-driven development, Continuous Integration/Continuous Deployment (CI/CD)
 
 ## Contact
@@ -23,6 +26,7 @@ I am H.D.C.S Munithunga, a passionate software engineer with a background in com
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email**: (chamikamunithunga140@gmail.com)
+  
 - **LinkedIn**: (https://www.linkedin.com/in/chamika-munithunga-74801a2b1/)
 
 ---
