@@ -31,5 +31,5 @@ Feel free to reach out to me via email or connect with me on LinkedIn.
 
 ---
 
-Thank you for visiting my portfolio. I look forward to connecting with you!
+Thank you for visiting my portfolio. I look forward to connecting with you! 
 
